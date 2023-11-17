@@ -16,10 +16,10 @@ For python version:
 ## Todo
 - [x] Proxy supported HTTP/s [ip:port][user:pass@ip:port] formats
 - [ ] Nuke command (all together)
-- [ ] Change Guild Name
-- [ ] Change Guild Icon
+- [x] Change Guild Name
+- [x] Change Guild Icon
 - [ ] Change Vanity
-- [ ] Nickname All
+- [x] Nickname All
 - [x] Ban all members
 - [x] Kick all members
 - [x] Prune members
