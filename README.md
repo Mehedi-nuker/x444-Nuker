@@ -1,4 +1,4 @@
-# x444-Nuker
+# Mehedi-Nuker
 x444, fastest nuker on discord written in py.
 ## Installation
 For compiled version:
